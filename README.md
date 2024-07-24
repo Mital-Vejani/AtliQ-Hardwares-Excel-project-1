@@ -11,12 +11,12 @@ This report provides a detailed analysis of the net sales performance of our cus
 Dataset-
 The dataset includes the following columns:
 Customer: The name of the customer.
-Year 2019: Net sales for the year 2019.
-Year 2020: Net sales for the year 2020.
-Year 2021: Net sales for the year 2021.
+Year 2019: Net sales for the year 2019,
+Year 2020: Net sales for the year 2020,
+Year 2021: Net sales for the year 2021,
 2020 vs 2021 (%): Percentage change in net sales from 2020 to 2021.
-Analysis
 
+Analysis-
 The analysis involves:
 Comparing the net sales of customers for the years 2019, 2020, and 2021.
 Calculating the percentage change in net sales from 2020 to 2021.
